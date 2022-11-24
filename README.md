@@ -2,6 +2,8 @@
 - 👀 I’m engrossed in Data Analytics and Data Visualization
 - 🌱 I’m currently learning Marketing Analytics at Datasetnexustech
 - 📫 You can reach me at @ mercyomotayo88@gmail.com
+  Also @ Mercy Omotayo on Linkledn
+  
 
 <!---
 Mercyomotayo15/Mercyomotayo15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

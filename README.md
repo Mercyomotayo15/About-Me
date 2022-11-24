@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mercy a DataScientist
 - 👀 I’m engrossed in Data Analytics and Data Visualization
 - 🌱 I’m currently learning Marketing Analytics at Datasetnexustech
-- 📫 You can reach me at @ mercyomotayo88@gmail.com
-  Also @ Mercy Omotayo on Linkledn
+- 📫 You can reach me at @ mercyomotayo88@gmail.com,@ Mercy Omotayo on Linkledn
   
 
 <!---
